@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "BER"
+    },
+    {
+      "id": "BO"
+    },
+    {
+      "id": "BU"
+    },
+    {
+      "id": "CHS"
+    },
+    {
+      "id": "DEN"
+    },
+    {
+      "id": "DOV"
+    },
+    {
+      "id": "EHN"
+    },
+    {
+      "id": "FLO"
+    },
+    {
+      "id": "HAC"
+    },
+    {
+      "id": "JEF"
+    },
+    {
+      "id": "HAR"
+    },
+    {
+      "id": "KIN"
+    },
+    {
+      "id": "CHA"
+    },
+    {
+      "id": "LPK"
+    },
+    {
+      "id": "LHT"
+    },
+    {
+      "id": "MAD"
+    },
+    {
+      "id": "MNB"
+    },
+    {
+      "id": "MNT"
+    },
+    {
+      "id": "MON"
+    },
+    {
+      "id": "MCL"
+    },
+    {
+      "id": "MP"
+    },
+    {
+      "id": "MMT"
+    },
+    {
+      "id": "MTA"
+    },
+    {
+      "id": "MTO"
+    },
+    {
+      "id": "MTL"
+    },
+    {
+      "id": "NPM"
+    },
+    {
+      "id": "PT"
+    },
+    {
+      "id": "LKH"
+    },
+    {
+      "id": "MTT"
+    },
+    {
+      "id": "PEQ"
+    },
+    {
+      "id": "RAN"
+    },
+    {
+      "id": "RIV"
+    },
+    {
+      "id": "RCB"
+    },
+    {
+      "id": "ROC"
+    },
+    {
+      "id": "HIB"
+    },
+    {
+      "id": "ROX"
+    },
+    {
+      "id": "WAS"
+    },
+    {
+      "id": "WHA"
+    },
+    {
+      "id": "WIP"
+    },
+    {
+      "id": "MLA"
+    }
+  ],
+  "edges": [
+    { "from": "MLA", "to": "BER" },
+    { "from": "MLA", "to": "BO" },
+    { "from": "MLA", "to": "BU" },
+    { "from": "MLA", "to": "CHS" },
+    { "from": "MLA", "to": "DEN" },
+    { "from": "MLA", "to": "DOV" },
+  ]
+}
